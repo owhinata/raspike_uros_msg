@@ -7,5 +7,5 @@ int16 ultrasonic_sensor
 int32 arm_count
 int32 right_count
 int32 left_count
-int16 x_angle
-int16 z_angle
+float32[3] angular_velocity
+float32[3] linear_acceleration
