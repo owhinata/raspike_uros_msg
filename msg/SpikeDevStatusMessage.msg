@@ -1,3 +1,4 @@
+uint32 timestamp_usec
 int8 color_mode_id
 int16 color_sensor_value_1
 int16 color_sensor_value_2
